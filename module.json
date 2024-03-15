@@ -1,0 +1,39 @@
+{
+  "id": "g24-import",
+  "title": "g24-import",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "name": "wbtwl",
+      "label": "Wbtwl",
+      "path": "packs/wbtwl",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "ootdl",
+      "label": "OotdL",
+      "path": "packs/ootdl",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/user?u=56147101",
+  "manifest": "",
+  "download": ""
+
+}
